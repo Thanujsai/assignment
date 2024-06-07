@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Card {
+  size: 1000px;
+  width: 300px;
+}
+
+.card-wrap{
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
